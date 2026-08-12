@@ -291,13 +291,25 @@ fernanda@github:~$ ./current-mission.sh
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandassantos-coder&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=07110B&title_color=39FF88&text_color=C9D1D9&icon_color=39FF88"/>
+SYSTEM METRICS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandassantos-coder&layout=compact&hide_border=true&langs_count=8&bg_color=07110B&title_color=39FF88&text_color=C9D1D9"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandassantos-coder&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
 
-<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandassantos-coder&theme=github_dark&hide_border=true" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=fernandassantos-coder&hide_border=true&background=07110B&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7D8590"/>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fernandassantos-coder&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+CONTRIBUTION STREAK
+
+<img src="https://streak-stats.demolab.com/?user=fernandassantos-coder&theme=dark&hide_border=true&background=07110B&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7D8590" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -317,17 +329,23 @@ fernanda@github:~$ ./current-mission.sh
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=fernandassantos-coder&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=fernandassantos-coder&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Profile Trophies" />
 
 </div>
-
----
 
 ## `> CONTRIBUTION_MATRIX`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fernandassantos-coder/fernandassantos-coder/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandassantos-coder/fernandassantos-coder/output/github-snake-dark.svg" />
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandassantos-coder/fernandassantos-coder/output/github-snake.svg" />
+
+<img src="https://raw.githubusercontent.com/fernandassantos-coder/fernandassantos-coder/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</picture>
 
 </div>
 
