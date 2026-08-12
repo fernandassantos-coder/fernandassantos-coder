@@ -329,7 +329,19 @@ CONTRIBUTION STREAK
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=fernandassantos-coder&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Profile Trophies" />
+<img src="https://img.shields.io/badge/🏆_CODE_WARRIOR-39FF88?style=for-the-badge&labelColor=07110B" />
+<img src="https://img.shields.io/badge/💻_BUILD_MODE-39FF88?style=for-the-badge&labelColor=07110B" />
+<img src="https://img.shields.io/badge/🧠_LEARNING_MODE-39FF88?style=for-the-badge&labelColor=07110B" />
+<img src="https://img.shields.io/badge/🔐_SECURITY_FOCUS-39FF88?style=for-the-badge&labelColor=07110B" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML-07110B?style=for-the-badge&logo=html5&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/CSS-07110B?style=for-the-badge&logo=css3&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/JavaScript-07110B?style=for-the-badge&logo=javascript&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/Git-07110B?style=for-the-badge&logo=git&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/GitHub-07110B?style=for-the-badge&logo=github&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/Java-07110B?style=for-the-badge&logo=openjdk&logoColor=39FF88" />
 
 </div>
 
@@ -339,11 +351,20 @@ CONTRIBUTION STREAK
 
 <picture>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandassantos-coder/fernandassantos-coder/output/github-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/fernandassantos-coder/fernandassantos-coder/output/github-contribution-grid-snake-dark.svg"
+  />
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandassantos-coder/fernandassantos-coder/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/fernandassantos-coder/fernandassantos-coder/output/github-contribution-grid-snake.svg"
+  />
 
-<img src="https://raw.githubusercontent.com/fernandassantos-coder/fernandassantos-coder/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/fernandassantos-coder/fernandassantos-coder/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 
 </picture>
 
